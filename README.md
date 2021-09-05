@@ -1,2 +1,3 @@
-# Machine-Learning-with-Python
-Machine Learning with Python
+#COURSE: Machine Learning with Python
+
+Up homework: Machine Learning with Python
